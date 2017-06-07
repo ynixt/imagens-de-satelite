@@ -1,8 +1,13 @@
 FACULDADE DE CIÊNCIAS ECONÔMICAS E CONTÁBEIS DE B.H.
+
 F U M E C
+
 CURSO CIÊNCIA DA COMPUTAÇÃO
+
 ESTRUTURAS DE DADOS II
+
 Professor: Flávio Velloso Laper
+
 Atividade Auto-instrucional (Parte 1) – Turma 4NA
 
 Feito por: Gabriel Alves Silva
@@ -17,16 +22,7 @@ As construções não se sobrepõem na imagem, e construções distintas são se
 
 **Entrada de Dados:** uma imagem está armazenada em um arquivo texto cujo nome deve será informado ao programa como um argumento da linha de comando. A primeira linha do arquivo contém dois inteiros positivos, M e N, separados por espaços, que indicam, respectivamente, o número de linhas e o de colunas da imagem a analisar. As M linhas seguintes contêm N dígitos cada (separados por espaços) correspondendo à imagem enviada pelo satélite. Por exemplo, a imagem acima estaria codificada em um arquivo com o seguinte conteúdo:
 
-9 15
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 1 1 1 1 1 1 1 0 0 0 0 1 0
-0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
-0 0 1 0 0 1 1 0 0 0 1 0 0 0 0
-0 0 1 0 0 1 1 0 0 1 0 0 0 0 0
-0 0 1 0 0 0 0 0 1 0 0 0 1 0 0
-0 1 1 1 1 1 1 1 0 0 0 1 0 0 0
-1 0 0 0 0 0 0 0 0 0 0 1 1 0 0
-0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+![Exemplo de arquivo que deverá ser lido e tratado](enunciado/exemploArquivo.png)
 
 O programa deverá se chamar _satelite.exe_ e ter a seguinte utilização:
 
